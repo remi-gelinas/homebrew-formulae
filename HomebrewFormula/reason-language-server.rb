@@ -10,5 +10,4 @@ class ReasonLanguageServer < Formula
         system "mv", "reason-language-server.exe", "reason-language-server"
         bin.install "reason-language-server"
     end
-
 end
